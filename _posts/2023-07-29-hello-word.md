@@ -4,6 +4,8 @@ title: "bruh"
 date: 2023-07-29 22:00:00 -0500
 categories: streaming
 tags: hello
+image:
+    path: '/assets/img/smiling-friends-chills.gif'
 
 ---
 # Chills
